@@ -1,3 +1,14 @@
 [
-    
+    {
+        "ID": 1,
+        "Name": "NEXTRA",
+        "API_KEY": "1AuJh6sJtA1FPPHmMkGswDNCbjNc1mRULEJAXOPvS8tOPD2bCs7HwSvnCEqYO8wa",
+        "IP": "localhost"
+    },
+    {
+        "ID": 2,
+        "Name": "KEEMO",
+        "API_KEY": "lJmqSwfk6SGN630akvo9RXu1GRn1eMtpLOGrLSCYbY2rbXkJ8MmW8cFwh06Dti0M",
+        "IP": "localhost"
+    }
 ]
