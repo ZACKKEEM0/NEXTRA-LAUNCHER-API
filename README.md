@@ -8,7 +8,7 @@
 [+] แสดงสถาะเซิร์ฟเวอร์ Online / Offline
 ```
 
-![Logo](https://media.discordapp.net/attachments/675285645916372992/1041681536078061588/image.png)
+![Logo](https://cdn.discordapp.com/attachments/909781362335158302/1050445565760122933/nextra.png)
 
 
 ## Screenshots
